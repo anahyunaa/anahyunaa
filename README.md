@@ -1,7 +1,7 @@
 # Merta Bhuana's Profile
 
 👋 **Hi there, I'm Ana!**  
-A passionate third-year Computer Science student at Universitas Pertamina. I am deeply interested in software development, designing, and business management. My journey as a student has been filled with hands-on experiences, coding challenges, and numerous exciting projects. I have been working as a social media specialist at UIUXINDO.
+A passionate last-year Computer Science student at Universitas Pertamina. I am deeply interested in software development, machine learning, robotics, cyber security, designing, and business management. My journey as a student has been filled with hands-on experiences, coding challenges, and numerous exciting projects.
 
 ---
 
@@ -9,6 +9,8 @@ A passionate third-year Computer Science student at Universitas Pertamina. I am 
 
 - Designed a web Food For Everyone for web development course.
 - became the second winner in the poster design competition by PNJ.
+- Lead Image Waste Clasification Project (Comparing 3 CNN Models) on trashnet dataset.
+- Lead, designing, and code for Nongki Yuk APP.
 
 ---
 
