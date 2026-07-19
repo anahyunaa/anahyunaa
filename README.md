@@ -8,9 +8,10 @@ A passionate last-year Computer Science student at Universitas Pertamina. I am d
 ## 🎓 Academic Projects & Achievements
 
 - Designed a web Food For Everyone for web development course.
-- became the second winner in the poster design competition by PNJ.
+- Second-place winner in the poster design competition by PNJ.
 - Lead Image Waste Clasification Project (Comparing 3 CNN Models) on trashnet dataset.
 - Lead, designing, and code for Nongki Yuk APP.
+- First-place winner of the policy competition at the Clinovation 2026 event
 
 ---
 
