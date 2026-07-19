@@ -1,7 +1,7 @@
 # Merta Bhuana's Profile
 
 👋 **Hi there, I'm Ana!**  
-A passionate last-year Computer Science student at Universitas Pertamina. I am deeply interested in software development, machine learning, robotics, cyber security, designing, and business management. My journey as a student has been filled with hands-on experiences, coding challenges, and numerous exciting projects.
+A passionate last-year Computer Science student at Universitas Pertamina. I am deeply interested in robot development, machine learning, robotics, cyber security, designing, and business management. My journey as a student has been filled with hands-on experiences, coding challenges, and numerous exciting projects.
 
 ---
 
